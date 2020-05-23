@@ -1,0 +1,12 @@
+C:\Users\srecov\source\repos\SeeSharpLearning\bin\Debug\netcoreapp3.0\SeeSharpLearning.exe
+C:\Users\srecov\source\repos\SeeSharpLearning\bin\Debug\netcoreapp3.0\SeeSharpLearning.deps.json
+C:\Users\srecov\source\repos\SeeSharpLearning\bin\Debug\netcoreapp3.0\SeeSharpLearning.runtimeconfig.json
+C:\Users\srecov\source\repos\SeeSharpLearning\bin\Debug\netcoreapp3.0\SeeSharpLearning.runtimeconfig.dev.json
+C:\Users\srecov\source\repos\SeeSharpLearning\bin\Debug\netcoreapp3.0\SeeSharpLearning.dll
+C:\Users\srecov\source\repos\SeeSharpLearning\bin\Debug\netcoreapp3.0\SeeSharpLearning.pdb
+C:\Users\srecov\source\repos\SeeSharpLearning\obj\Debug\netcoreapp3.0\SeeSharpLearning.csprojAssemblyReference.cache
+C:\Users\srecov\source\repos\SeeSharpLearning\obj\Debug\netcoreapp3.0\SeeSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\srecov\source\repos\SeeSharpLearning\obj\Debug\netcoreapp3.0\SeeSharpLearning.AssemblyInfoInputs.cache
+C:\Users\srecov\source\repos\SeeSharpLearning\obj\Debug\netcoreapp3.0\SeeSharpLearning.AssemblyInfo.cs
+C:\Users\srecov\source\repos\SeeSharpLearning\obj\Debug\netcoreapp3.0\SeeSharpLearning.dll
+C:\Users\srecov\source\repos\SeeSharpLearning\obj\Debug\netcoreapp3.0\SeeSharpLearning.pdb
